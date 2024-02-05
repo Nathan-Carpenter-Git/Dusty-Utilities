@@ -3,7 +3,7 @@ Small Unity package to aid in basic scripting.
 Created for Dusty Studios in game development
 
 ## Warning
-- Not all components and scripts have been testing fully, some functions may not work as intended
+Not all components and scripts have been tested fully, some functions may not work as intended
 
 ## Includes
 ### Customizable movement scripts
