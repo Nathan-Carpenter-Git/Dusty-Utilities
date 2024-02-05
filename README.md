@@ -2,7 +2,7 @@
 Small Unity package to aid in basic scripting.
 Created for Dusty Studios in game development
 
-## Warning
+## **Warning**
 Not all components and scripts have been tested fully, some functions may not work as intended
 
 ## Includes
