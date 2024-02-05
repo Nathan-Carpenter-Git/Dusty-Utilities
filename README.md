@@ -15,6 +15,13 @@ Not all components and scripts have been tested fully, some functions may not wo
 - Can use raycast or trigger collision detection
 - Ability to add a layer mask
 
+### Shaders
+- Includes a simple HDR color shader allowing 2D or 3D objects to glow
+
+### Testing (not required)
+- Testing folder for personal testing with scripts
+- Includes testing scenes for both 3D and 2D
+
 ### Save script
 - Helper script to save given data
 - Support for any class
