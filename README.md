@@ -1,5 +1,6 @@
 # Dusty Utilities
 Small Unity package to aid in basic scripting.
+Created for Dusty Studios in game development
 
 ## Includes
 ### Customizable movement scripts
