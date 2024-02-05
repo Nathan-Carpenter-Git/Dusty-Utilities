@@ -2,6 +2,9 @@
 Small Unity package to aid in basic scripting.
 Created for Dusty Studios in game development
 
+## Warning
+- Not all components and scripts have been testing fully, some functions may not work as intended
+
 ## Includes
 ### Customizable movement scripts
 - Support for a 2D top-down, physics, and transform-based platformer
