@@ -5,23 +5,6 @@ Created for Dusty Studios in game development
 ## Warning
 Not all components and scripts have been tested fully, some functions may not work as intended
 
-## Includes
-### Customizable movement scripts
-- Support for a 2D top-down, physics, and transform-based platformer
-- Support for a 3D transform and physics-based game.
-
-### Ground detection script
-- Supports 3D and 2D detection for player jumping
-- Can use raycast or trigger collision detection
-- Ability to add a layer mask
-
-### Shaders
-- Includes a simple HDR color shader allowing 2D or 3D objects to glow
-
-### Testing (not required)
-- Testing folder for personal testing with scripts
-- Includes testing scenes for both 3D and 2D
-
 ### Save script
 - Helper script to save given data
 - Support for any class
