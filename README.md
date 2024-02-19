@@ -8,7 +8,7 @@ Created for Dusty Studios in game development
 - Saves to JSON under given file name
 
 ## Dusty utils import overview
-"using static DustyUtils.Utils" or "using static DustyUtils.SaveUtils" to use available functions
+Add "using static DustyUtils.Utils" or "using static DustyUtils.SaveUtils" to use available functions
 
 ### Utils
 - GetRandomArrayElement<T>(Array array) / GetRandomListElement<T>(List<T> list) - returns a random "element" or "value" from an array or list
